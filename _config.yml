@@ -1,0 +1,22 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+#relative_permalinks: true
+gems:                [jekyll-paginate]
+
+# Setup
+title:               Home - Anupam's Blog
+tagline:             'Experiences from everywhere'
+url:                 http://anupamm.github.io
+baseurl:             '{{site.github.url}}'
+paginate:            5
+
+# About/contact
+author:
+  name:              Anupam Mishra
+  url:               https://twitter.com/anupamonu
+  email:             anu@about.me
+
+# Custom vars
+version:             1.0.0
