@@ -9,7 +9,7 @@ gems:                [jekyll-paginate]
 title:               Home - Anupam's Blog
 tagline:             'Experiences from everywhere'
 url:                 http://anupamm.github.io
-baseurl:             '{{site.github.url}}'
+baseurl:             ''
 paginate:            5
 
 # About/contact
