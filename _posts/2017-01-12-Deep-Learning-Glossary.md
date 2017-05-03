@@ -3,7 +3,7 @@ layout: post
 title: Deep Learning Vocabulary
 ---
 
-I have built various software applications professionally for many years. I saw an amazing potential in the way lot of problems can be solved using Deep Learning and thought of learning it. Initially, it was an uphill task for me and it took lot of time to build the vocabulary to understand research papers and talk to scientists. Some other engineers I know share the same experience.
+I have been building various software applications professionally for many years. I saw an amazing potential in the way lot of problems can be solved using Deep Learning and thought of learning it. Initially, it was an uphill task for me and it took lot of time to build the vocabulary to understand research papers and talk to scientists. Some other engineers I know share the same experience.
 
 ### Understanding the vocabulary
 
